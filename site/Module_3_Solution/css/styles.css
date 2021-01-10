@@ -1,0 +1,47 @@
+
+.menubox1 {
+	background-color: #FBE0E0;
+	margin: 30px;
+	padding: 20px;
+	height: 1000px;
+	overflow: auto; 
+}
+
+#header-nav {
+	background-color: pink;
+}
+
+.navbar-collapse { background: #FBE0E0;
+	text-align: center;
+	color: black;
+} 
+
+.navbar-brand h1{
+	color: black;
+	font-size: 30px;
+	background-color: pink;
+	margin-top: 0px;
+    margin-bottom: 10px;
+    position: relative;
+    top: -5px;
+}
+
+.ourmenu {
+	padding-top: 20px;
+}
+
+
+h2 {
+	text-align: center;
+}
+
+
+p {
+	text-align: center;
+	padding: 20px;
+	line-height: 1.6;
+}
+
+@media (min-width: 1200px) {
+  .navbar-collapse { background: pink;
+} 
